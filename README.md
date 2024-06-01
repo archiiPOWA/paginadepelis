@@ -1,2 +1,2 @@
-# paginadepelis
-peliculas trailers
+# paginapelis
+pagina de peliculas
